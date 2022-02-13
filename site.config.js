@@ -8,8 +8,8 @@ module.exports = {
 
   // basic site info (required)
   name: 'cpro95',
-  domain: 'vercel.app',
-  author: 'cpro95',
+  domain: 'cpro95.vercel.app',
+  author: 'cpro95@gmail.com',
 
   // open graph metadata (optional)
   description: 'cpro95 Notion Blog',
@@ -19,7 +19,7 @@ module.exports = {
   // social usernames (optional)
   twitter: 'cpro95',
   github: 'cpro95',
-  linkedin: 'cpro95',
+  // linkedin: 'cpro95',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
